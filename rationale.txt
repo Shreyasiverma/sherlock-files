@@ -1,0 +1,1 @@
+Model: U-Net with Skip Connections. Loss: MSE. Logic: 1st-order temporal ranking based on Euclidean distance.
